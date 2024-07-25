@@ -12,6 +12,15 @@ Vue.component("simple_cta_component_1721889515", {
                 </div>
             </div>
         </nav>
+        <nav class="bg-gray-800 p-4">
+            <div class="max-w-screen-xl mx-auto flex justify-between items-center">
+                <div class="flex space-x-4">
+                    <a href="#" class="text-white hover:text-gray-300">Home</a>
+                    <a href="#" class="text-white hover:text-gray-300">About</a>
+                    <a href="#" class="text-white hover:text-gray-300">Contact Us</a>
+                </div>
+            </div>
+        </nav>
         <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
             <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
                 <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
